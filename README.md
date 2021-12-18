@@ -1,2 +1,1 @@
-# ideas-esoww
-ideas eso with +++wiki
+# ideas
